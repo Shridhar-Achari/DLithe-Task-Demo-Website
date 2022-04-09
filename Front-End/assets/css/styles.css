@@ -1,0 +1,205 @@
+/*Nav bar logo*/
+.logo{
+    margin-left: 20px;
+    height: 40pxpx;
+    width: 40px;
+    background-size: 100% 100%;
+    border-radius: 50%;
+}
+#clogo{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  font-weight:bold;
+  letter-spacing: 3px;
+}
+/*Title on Page1*/
+.content{
+position: relative;
+left: 50px;
+top: 150px;
+color:aliceblue;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.content h1{
+font-size: 80px;
+}
+.content p{
+font-size: 25px;
+font-family:monospace
+}
+i{
+color: aliceblue; 
+}
+
+
+
+
+
+
+
+/*Page 1*/
+#btn
+{
+    width: 250px;
+    height: 50px;
+    border: none;
+    border-radius:30px;
+    background-color: #21233d;
+    color:rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: bold;
+}
+/*Page 2*/
+#page2{
+    padding: 50px;
+    height: 600px;
+}
+#page2 h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+#page2 p{
+    text-align: center;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+#p2row{
+    margin-left: 150px;
+}
+#col{
+    margin-left: 70px;
+}
+#fig h1{
+    font-size: 22px;
+    text-align: center;
+    color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#fig p{
+    font-size: 14px;
+    text-align: center;
+    color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/*Page 4*/
+#p4col2{
+    position: relative;
+    margin-left: 120px;
+    padding: 30px;
+    height: 180px;
+    width: 180px;
+    box-sizing: content-box;
+    border: 6px solid white;
+    border-radius: 50%;
+}
+#page4{
+    padding: 50px;
+    height: 600px;
+}
+#page4 h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+#page4 p{
+    text-align: center;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+#page4 h2{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+/**Page 6*/
+.author{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ffffff;
+}
+.author img{
+    margin-top: 120px;
+}
+.author p{
+    font-size: 25px;
+}
+/*Page 7*/
+#input1{
+    width: 450px;
+    height: 50px;
+    border: none;
+    border-radius:30px;
+    font-size: 22px;
+}
+#input1:hover{
+    box-shadow: 8px 8px 8px gray;
+}
+#p7row{
+    margin-top: 150px;
+    text-align: center;
+    font-size: 23px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #21243d;
+}
+#btn1
+{
+    left: 400px;
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius:30px;
+    background-color:#21233d;
+    color:rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: bold;
+}
+/*Footer*/
+#footer{
+    background-color: black;
+    color: white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    text-align: left;
+  }
+  footer h6{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+    text-align: left;
+  }
+  footer p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    text-align: left;
+  }
+.social a{
+    font-size: 18px;
+    display: inline-block;
+    background: #545454;
+    color: #fff;
+    line-height: 1;
+    padding: 8px 0;
+    margin-right: 4px;
+    border-radius: 50%;
+    border-width: 3px;
+    text-align: center;
+    width: 36px;
+    height: 36px;
+    transition: 0.3s
+}
+.social a:hover{
+    background-color: rgb(0, 2, 128);
+    box-shadow: 3px 4px 4px #ffffff;
+}
+img{
+    box-shadow: 10px 10px 10px gray;
+}
+
